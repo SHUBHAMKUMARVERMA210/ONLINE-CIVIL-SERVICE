@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/advertisement/1.jpg</ImageUrl>
+    <NavigateUrl>PRODUCT.aspx</NavigateUrl>
+    <Impression>10</Impression>
+    <Keyword>A1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/advertisement/2.jpg</ImageUrl>
+    <NavigateUrl>PRODUCT.aspx</NavigateUrl>
+    <Impression>20</Impression>
+    <Keyword>A2</Keyword>
+  </Ad>
+</Advertisements>
