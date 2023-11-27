@@ -7,31 +7,31 @@ The "Online Civil Service" project is an e-commerce website designed to facilita
 ## Features
 ## For Users:
 
-User Authentication: Secure login and registration system for users to create accounts and manage their profiles.
+**User Authentication:** Secure login and registration system for users to create accounts and manage their profiles.
 
-Product Catalog: Browse a diverse range of civil products with detailed descriptions and images.
+**Product Catalog:** Browse a diverse range of civil products with detailed descriptions and images.
 
-Shopping Cart: Add products to the cart for convenient and organized purchases.
+**Shopping Cart:** Add products to the cart for convenient and organized purchases.
 
-Order Management: Track the status of orders and view order history.
+**Order Management:** Track the status of orders and view order history.
 
-Secure Transactions: Ensure the safety of transactions through secure payment gateways.
+**Secure Transactions:** Ensure the safety of transactions through secure payment gateways.
 
 ## For Shopkeepers:
 
-Product Management: Easily add, update, and remove products from the inventory.
+**Product Management:** Easily add, update, and remove products from the inventory.
 
-Order Fulfillment: Receive and process orders efficiently through a streamlined system.
+**Order Fulfillment:** Receive and process orders efficiently through a streamlined system.
 
-Sales Analytics: Access insights into sales trends and product performance for informed decision-making.
+**Sales Analytics:** Access insights into sales trends and product performance for informed decision-making.
 
-User Feedback: Receive and respond to user reviews and ratings for product improvement.
+**User Feedback:** Receive and respond to user reviews and ratings for product improvement.
 
 ## Technologies Used
 
-Front-End: ASP.NET
-Back-End: SQL Server 2005
-Security: Implement secure authentication and authorization mechanisms.
+**Front-End:** ASP.NET
+**Back-End:** SQL Server 2005
+**Security:** Implement secure authentication and authorization mechanisms.
 
 ## Getting Started
 
